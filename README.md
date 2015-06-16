@@ -1,8 +1,8 @@
 **Understanding Game Theory via Wireless Power Control**
 
-This is a code package is related to the follow “lecture note” article:
+This is a code package is related to the following “lecture note” article:
 
-Giacomo Bacci, Luca Sanguinetti, and Marco Luise, “Understanding Game Theory via Wireless Power Control,” submitted to *IEEE Signal Processing Magazine* (Oct. 2014).
+Giacomo Bacci, Luca Sanguinetti, and Marco Luise, “Understanding Game Theory via Wireless Power Control,” *IEEE Signal Processing Magazine*, vol. 32, no. 4, pp. 132-137, July 2015.
 
 The package contains a simulation environment, based on Matlab, that reproduces all the numerical results and figures in the article. We encourage you to also perform reproducible research!
 
